@@ -43,7 +43,7 @@ int main() {
 
     display(list, 3);
 
-    
+    delete []list;
     
     return 0;
 }
